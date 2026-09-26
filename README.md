@@ -1,82 +1,102 @@
-<h1 align='center'>
-  Olá! 👋 Eu sou o Guilherme 👨‍💻
-</h1>
+## 👨‍💻 Experiência profissional
 
-<p align='center'>
-  Estudante de Desenvolvimento WEB Full Stack
-</p>
+### Desenvolvedor Java Sênior — BRQ Digital Solutions
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=GuiRezende&show_icons=true&count_private=true&include_all_commits=true&theme=dark" height="140em"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiRezende&show_icons=true&count_private=true&theme=dark&layout=compact" height="140em"></a>
-</p>
+📆 **Agosto de 2022 – atualmente**  
+📍 **Remoto — Brasil**
 
-<p align='center'>
-    <a href="https://www.linkedin.com/in/guilherme-rezende-inacio/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/gui_rezende05">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;  
-</p>
+Atuação no desenvolvimento de soluções corporativas para clientes dos setores financeiro, infraestrutura do mercado financeiro e seguros, com foco em aplicações backend, microsserviços, APIs REST, processamento em lote e integrações orientadas a eventos.
 
-<p align='center'>
-  💻 Linguagens que utilizo :books: <br/><br/> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" style="vertical-align:top; margin:4px"><br/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" style="vertical-align:top; margin:4px"> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" style="vertical-align:top; margin:4px"><br/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="vertical-align:top; margin:4px">
-</p>
+#### Evolução profissional na BRQ
 
-<p align='center'>
-  📫 Meu email para contato: <a href='mailto:guilhermerezende1994@gmail.com'>guilhermerezende1994@gmail.com</a>
-</p>
+- **Desenvolvedor Java Sênior** — julho de 2026 até atualmente;
+- **Desenvolvedor Java Pleno** — janeiro de 2025 a junho de 2026;
+- **Desenvolvedor Java Júnior** — novembro de 2023 a dezembro de 2024;
+- **Estagiário de Desenvolvimento de Software** — agosto de 2022 a novembro de 2023.
 
+### Principais projetos e clientes atendidos
 
-<details>
-  <summary>📃 Resume</summary>
+#### Núclea — Projeto terceirizado pela BRQ
 
+📆 **Agosto de 2025 – atualmente**
 
-## Education
-  - 📖 **Santander Bootcamp Fullstack Developer**\
-📆 2022 - em andamento\
-📍 **Digital Inovation One - Dio** - Remoto, Brazil
-  
-- 📖 **Tech Academy - Fullstack Developer**\
-📆 2022 - em andamento\
-📍 **StartSe** - Remoto, Brazil
-  
- - 📖 **Entry Point - Java**\
-📆 2022\
-📍 **Grande Porte (BRQ)** - Remoto, Brazil
-  
-- 📖 **Engenharia da Computação**\
-📆 2013 - 2019\
-📍 **Faculdade Independente do Nordeste** - Vitória da Conquista - BA, Brazil
+Atuação no desenvolvimento e evolução de soluções backend voltadas a processos financeiros, faturamento, geração de relatórios e integração entre sistemas.
 
-## Experience
-<img align="right" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="20em" />
-<img align="right" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="20em" />
-<img align="right" src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="20em" />
+Principais atividades:
 
-- 👨‍💻 **Suporte Técnico**\
-📆 2020 - jan/2022\
-📍 **Grupo Dass** - Vitória da Conquista/BA, Brazil
-  
+- Desenvolvimento de APIs REST com Java 21 e Spring Boot;
+- Construção e manutenção de microsserviços;
+- Desenvolvimento de processos batch para geração e processamento de arquivos;
+- Integração com serviços AWS, incluindo S3, SQS e Aurora PostgreSQL;
+- Conteinerização e padronização de ambientes com Docker;
+- Criação e manutenção de testes unitários utilizando JUnit 5 e Mockito;
+- Monitoramento e observabilidade de aplicações com Datadog;
+- Participação em revisões de código, pull requests e decisões técnicas;
+- Colaboração em equipes ágeis utilizando Scrum e Kanban.
 
+**Tecnologias:** Java 21, Spring Boot, Spring Batch, APIs REST, PostgreSQL, AWS S3, AWS SQS, Aurora PostgreSQL, Docker, JUnit 5, Mockito, Datadog e GitHub.
 
-<!-- ### Hi there 👋
+---
 
-Here are some ideas to get you started:
+#### B3 — Projeto terceirizado pela BRQ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- 
--->
+📆 **Março de 2024 – agosto de 2025**
+
+Atuação na equipe da UIF-RSNG, iniciativa relacionada à modernização do processo de registro de gravames sobre veículos, contribuindo para a segurança e eficiência das operações de crédito.
+
+Principais atividades:
+
+- Desenvolvimento de soluções backend com Java 17 e Java 21;
+- Construção e manutenção de aplicações com Spring Boot;
+- Desenvolvimento de jobs com Spring Batch para processamento de grandes volumes de dados;
+- Implementação de mecanismos de controle, rastreamento e tratamento de erros em processos batch;
+- Construção de APIs REST para integração com sistemas internos e parceiros;
+- Integração assíncrona utilizando Azure Event Hub;
+- Armazenamento e gerenciamento de arquivos no Azure Blob Storage;
+- Participação em cerimônias Scrum, refinamentos técnicos e entregas contínuas.
+
+**Tecnologias:** Java 17, Java 21, Spring Boot, Spring Batch, APIs REST, Azure Event Hub, Azure Blob Storage, SQL e Git.
+
+---
+
+#### Sompo Seguros — Projeto terceirizado pela BRQ
+
+📆 **Agosto de 2022 – fevereiro de 2024**
+
+Atuação no desenvolvimento e sustentação de sistemas corporativos do setor de seguros, trabalhando com aplicações Java legadas, bancos relacionais, relatórios e servidores de aplicação.
+
+Principais atividades:
+
+- Desenvolvimento e manutenção de aplicações utilizando Java 7 e Java 8;
+- Manutenção de interfaces desenvolvidas com JSF e JSP;
+- Criação e ajuste de consultas e scripts no SQL Server;
+- Desenvolvimento e manutenção de relatórios com JasperReports;
+- Investigação e correção de incidentes em sistemas corporativos;
+- Realização e acompanhamento de deploys no WebSphere e Tomcat;
+- Controle de versão e colaboração utilizando Git e Bitbucket;
+- Participação em cerimônias ágeis e atuação com equipes multidisciplinares.
+
+**Tecnologias:** Java 7, Java 8, JSF, JSP, SQL Server, JasperReports, WebSphere, Tomcat, Git e Bitbucket.
+
+---
+
+### Suporte Técnico — Grupo Dass
+
+📆 **2020 – janeiro de 2022**  
+📍 **Vitória da Conquista/BA — Brasil**
+
+Atuação no suporte técnico a usuários e sistemas, diagnóstico de problemas, manutenção de equipamentos e apoio à infraestrutura de tecnologia.
+
+## 🎓 Formação acadêmica
+
+### Pós-graduação Lato Sensu em Desenvolvimento Web
+
+📆 **Fevereiro de 2026 – agosto de 2027 (em andamento)**  
+📍 **Instituto Federal da Bahia — IFBA**
+
+Especialização voltada ao desenvolvimento de aplicações web, abrangendo tecnologias frontend, backend, arquitetura de software, bancos de dados e integração de sistemas.
+
+### Bacharelado em Engenharia da Computação
+
+📆 **2013 – 2020**  
+📍 **Faculdade Independente do Nordeste — Vitória da Conquista/BA**
