@@ -1,45 +1,131 @@
-## 👨‍💻 Experiência
+<h1 align="center">
+  Olá! 👋 Eu sou o Guilherme 👨‍💻
+</h1>
+
+<p align="center">
+  Desenvolvedor Java Sênior
+</p>
+
+<p align="center">
+  Desenvolvimento backend com Java, Spring Boot, APIs REST, microsserviços,
+  processamento batch e integrações em nuvem.
+</p>
+
+<p align="center">
+  <a href="https://github.com/GuiRezende">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=GuiRezende&show_icons=true&include_all_commits=true&theme=dark&locale=pt-br"
+      height="140em"
+      alt="Estatísticas do GitHub"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiRezende&theme=dark&layout=compact&locale=pt-br&hide=C%2B%2B"
+      height="140em"
+      alt="Linguagens mais utilizadas"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilherme-rezende-inacio/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/gui_rezende05">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+</p>
+
+<p align="center">
+  💻 Tecnologias que utilizo 📚
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Batch" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+<p align="center">
+  📫 Contato:
+  <a href="mailto:guilhermerezende1994@gmail.com">
+    guilhermerezende1994@gmail.com
+  </a>
+</p>
+
+<details>
+  <summary>📃 Formação e experiência</summary>
+
+## Formação acadêmica
+
+- 📖 **Pós-graduação em Desenvolvimento Web**  
+  📆 Fevereiro de 2026 – agosto de 2027 · Em andamento  
+  📍 **Instituto Federal da Bahia — IFBA**
+
+- 📖 **Engenharia da Computação**  
+  📆 2013 – 2020  
+  📍 **Faculdade Independente do Nordeste — Vitória da Conquista/BA**
+
+## Experiência
 
 ### BRQ Digital Solutions
 
-**Desenvolvedor Java Sênior**  
-📆 Agosto de 2022 – atualmente | Remoto
+📆 **Agosto de 2022 – atualmente**  
+📍 **Remoto**
 
-Atuação no desenvolvimento de aplicações backend, APIs REST, microsserviços, processamento batch e integrações com serviços AWS e Azure.
+Trajetória iniciada como estagiário, com evolução para Desenvolvedor Java Júnior, Pleno e Sênior.
 
-**Evolução profissional:**
+#### Projetos e clientes atendidos
 
-`Estagiário` → `Desenvolvedor Júnior` → `Desenvolvedor Pleno` → `Desenvolvedor Sênior`
+👨‍💻 **Desenvolvedor Java Sênior**  
+📆 Julho de 2026 – atualmente  
+📍 **Núclea — Remoto**  
+🏢 Projeto terceirizado pela BRQ
 
-<details>
-  <summary><strong>Projetos e clientes atendidos</strong></summary>
-  <br>
+Java 21, Spring Boot, Spring Batch, APIs REST, PostgreSQL, AWS, Docker e Datadog.
 
-  **Núclea — agosto de 2025 até atualmente**
+---
 
-  Desenvolvimento de soluções financeiras utilizando Java 21, Spring Boot, Spring Batch, PostgreSQL, AWS, Docker, JUnit, Mockito e Datadog.
+👨‍💻 **Desenvolvedor Java Pleno**  
+📆 Agosto de 2025 – junho de 2026  
+📍 **Núclea — Remoto**  
+🏢 Projeto terceirizado pela BRQ
 
-  **B3 — março de 2024 a agosto de 2025**
+Desenvolvimento de microsserviços, APIs e processos de faturamento integrados a serviços AWS.
 
-  Desenvolvimento de APIs e processos de alto volume com Java, Spring Boot e Spring Batch, incluindo integrações com Azure Event Hub e Blob Storage.
+---
 
-  **Sompo Seguros — agosto de 2022 a fevereiro de 2024**
+👨‍💻 **Desenvolvedor Java Júnior → Pleno**  
+📆 Março de 2024 – agosto de 2025  
+📍 **B3 — Remoto**  
+🏢 Projeto terceirizado pela BRQ
 
-  Desenvolvimento e sustentação de sistemas corporativos com Java 7/8, JSF, JSP, SQL Server, JasperReports, WebSphere e Tomcat.
+Java 17/21, Spring Boot, Spring Batch, APIs REST, Azure Event Hub e Azure Blob Storage.
 
+---
+
+👨‍💻 **Estagiário → Desenvolvedor Java Júnior**  
+📆 Agosto de 2022 – fevereiro de 2024  
+📍 **Sompo Seguros — Remoto**  
+🏢 Projeto terceirizado pela BRQ
+
+Java 7/8, JSF, JSP, SQL Server, JasperReports, WebSphere e Tomcat.
 </details>
-
-### Grupo Dass
-
-**Suporte Técnico**  
-📆 2020 – janeiro de 2022 | Vitória da Conquista/BA
-
-## 🎓 Formação acadêmica
-
-- **Pós-graduação em Desenvolvimento Web**  
-  Instituto Federal da Bahia — IFBA  
-  Fevereiro de 2026 – agosto de 2027 · Em andamento
-
-- **Bacharelado em Engenharia da Computação**  
-  Faculdade Independente do Nordeste  
-  2013 – 2020
