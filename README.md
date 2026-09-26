@@ -57,7 +57,7 @@
 </p>
 
 <details>
-  <summary>📃 Formação e experiência</summary>
+  <summary><strong>🎓 Formação acadêmica</strong></summary>
 
 ## Formação acadêmica
 
@@ -68,7 +68,11 @@
 📖 **Engenharia da Computação**  
 📆 2013 – 2020  
 📍 **Faculdade Independente do Nordeste — Vitória da Conquista/BA**
+</details>
 
+<br/>
+<details>
+  <summary><strong>👨‍💻 Experiência profissional</strong></summary>
 ## Experiência
 
 ### BRQ Digital Solutions
@@ -113,9 +117,4 @@ Java 17/21, Spring Boot, Spring Batch, APIs REST, Azure Event Hub e Azure Blob S
 🏢 Projeto terceirizado pela BRQ
 
 Java 7/8, JSF, JSP, SQL Server, JasperReports, WebSphere e Tomcat.
-</details>
-    <br/><br/>
-
-    Java 7/8, JSF, JSP, SQL Server, JasperReports, WebSphere e Tomcat.
-  </details>
 </details>
