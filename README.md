@@ -1,4 +1,4 @@
-<h1 align="center">
+8<h1 align="center">
   Olá! 👋 Eu sou o Guilherme 👨‍💻
 </h1>
 
@@ -9,21 +9,6 @@
 <p align="center">
   Desenvolvimento backend com Java, Spring Boot, APIs REST, microsserviços,
   processamento batch e integrações em nuvem.
-</p>
-
-<p align="center">
-  <a href="https://github.com/GuiRezende">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=GuiRezende&show_icons=true&include_all_commits=true&theme=dark&locale=pt-br"
-      height="140em"
-      alt="Estatísticas do GitHub"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiRezende&theme=dark&layout=compact&locale=pt-br&hide=C%2B%2B"
-      height="140em"
-      alt="Linguagens mais utilizadas"
-    />
-  </a>
 </p>
 
 <p align="center">
@@ -72,60 +57,91 @@
 </p>
 
 <details>
-  <summary>📃 Formação e experiência</summary>
+  <summary><strong>🎓 Formação acadêmica</strong></summary>
+  <br/>
 
-## Formação acadêmica
+  📖 <strong>Pós-graduação em Desenvolvimento Web</strong><br/>
+  📆 Fevereiro de 2026 – agosto de 2027 · Em andamento<br/>
+  📍 Instituto Federal da Bahia — IFBA
 
-- 📖 **Pós-graduação em Desenvolvimento Web**  
-  📆 Fevereiro de 2026 – agosto de 2027 · Em andamento  
-  📍 **Instituto Federal da Bahia — IFBA**
+  <br/><br/>
 
-- 📖 **Engenharia da Computação**  
-  📆 2013 – 2020  
-  📍 **Faculdade Independente do Nordeste — Vitória da Conquista/BA**
+  📖 <strong>Engenharia da Computação</strong><br/>
+  📆 2013 – 2020<br/>
+  📍 Faculdade Independente do Nordeste — Vitória da Conquista/BA
+</details>
 
-## Experiência
+<br/>
 
-### BRQ Digital Solutions
+<details>
+  <summary><strong>👨‍💻 Experiência profissional</strong></summary>
+  <br/>
 
-📆 **Agosto de 2022 – atualmente**  
-📍 **Remoto**
+  <strong>BRQ Digital Solutions</strong><br/>
+  📆 Agosto de 2022 – atualmente<br/>
+  📍 Remoto
 
-Trajetória iniciada como estagiário, com evolução para Desenvolvedor Java Júnior, Pleno e Sênior.
+  <br/><br/>
 
-#### Projetos e clientes atendidos
+  Trajetória iniciada como estagiário, com evolução para Desenvolvedor Java Júnior, Pleno e Sênior.
 
-👨‍💻 **Desenvolvedor Java Sênior**  
-📆 Julho de 2026 – atualmente  
-📍 **Núclea — Remoto**  
-🏢 Projeto terceirizado pela BRQ
+  <br/><br/>
 
-Java 21, Spring Boot, Spring Batch, APIs REST, PostgreSQL, AWS, Docker e Datadog.
+  <details>
+    <summary><strong>Núclea — Desenvolvedor Java Sênior</strong></summary>
+    <br/>
 
----
+    📆 Julho de 2026 – atualmente<br/>
+    📍 Remoto<br/>
+    🏢 Projeto terceirizado pela BRQ
 
-👨‍💻 **Desenvolvedor Java Pleno**  
-📆 Agosto de 2025 – junho de 2026  
-📍 **Núclea — Remoto**  
-🏢 Projeto terceirizado pela BRQ
+    <br/><br/>
 
-Desenvolvimento de microsserviços, APIs e processos de faturamento integrados a serviços AWS.
+    Java 21, Spring Boot, Spring Batch, APIs REST, PostgreSQL, AWS, Docker e Datadog.
+  </details>
 
----
+  <br/>
 
-👨‍💻 **Desenvolvedor Java Júnior → Pleno**  
-📆 Março de 2024 – agosto de 2025  
-📍 **B3 — Remoto**  
-🏢 Projeto terceirizado pela BRQ
+  <details>
+    <summary><strong>Núclea — Desenvolvedor Java Pleno</strong></summary>
+    <br/>
 
-Java 17/21, Spring Boot, Spring Batch, APIs REST, Azure Event Hub e Azure Blob Storage.
+    📆 Agosto de 2025 – junho de 2026<br/>
+    📍 Remoto<br/>
+    🏢 Projeto terceirizado pela BRQ
 
----
+    <br/><br/>
 
-👨‍💻 **Estagiário → Desenvolvedor Java Júnior**  
-📆 Agosto de 2022 – fevereiro de 2024  
-📍 **Sompo Seguros — Remoto**  
-🏢 Projeto terceirizado pela BRQ
+    Desenvolvimento de microsserviços, APIs e processos de faturamento integrados a serviços AWS.
+  </details>
 
-Java 7/8, JSF, JSP, SQL Server, JasperReports, WebSphere e Tomcat.
+  <br/>
+
+  <details>
+    <summary><strong>B3 — Desenvolvedor Java Júnior → Pleno</strong></summary>
+    <br/>
+
+    📆 Março de 2024 – agosto de 2025<br/>
+    📍 Remoto<br/>
+    🏢 Projeto terceirizado pela BRQ
+
+    <br/><br/>
+
+    Java 17/21, Spring Boot, Spring Batch, APIs REST, Azure Event Hub e Azure Blob Storage.
+  </details>
+
+  <br/>
+
+  <details>
+    <summary><strong>Sompo Seguros — Estagiário → Desenvolvedor Java Júnior</strong></summary>
+    <br/>
+
+    📆 Agosto de 2022 – fevereiro de 2024<br/>
+    📍 Remoto<br/>
+    🏢 Projeto terceirizado pela BRQ
+
+    <br/><br/>
+
+    Java 7/8, JSF, JSP, SQL Server, JasperReports, WebSphere e Tomcat.
+  </details>
 </details>
