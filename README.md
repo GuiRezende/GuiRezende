@@ -73,6 +73,7 @@
 <br/>
 <details>
   <summary><strong>👨‍💻 Experiência profissional</strong></summary>
+  
 ## Experiência
 
 ### BRQ Digital Solutions
@@ -80,9 +81,14 @@
 📆 **Agosto de 2022 – atualmente**  
 📍 **Remoto**
 
-Trajetória iniciada como estagiário, com evolução para Desenvolvedor Java Júnior, Pleno e Sênior.
 
-#### Projetos e clientes atendidos
+---
+
+<br/>
+<details>
+  <summary><strong>📈 Projetos e clientes atendidos</strong></summary>
+
+  #### Projetos e clientes atendidos
 
 👨‍💻 **Desenvolvedor Java Sênior**  
 📆 Julho de 2026 – atualmente  
@@ -117,4 +123,5 @@ Java 17/21, Spring Boot, Spring Batch, APIs REST, Azure Event Hub e Azure Blob S
 🏢 Projeto terceirizado pela BRQ
 
 Java 7/8, JSF, JSP, SQL Server, JasperReports, WebSphere e Tomcat.
+</details>
 </details>
